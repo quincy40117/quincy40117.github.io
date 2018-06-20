@@ -100,3 +100,8 @@ h3 {
   text-transform: none;
   margin-top: 1rem;
 }
+
+.img-fluid{
+  position: relative;
+  bottom:100px;
+}
